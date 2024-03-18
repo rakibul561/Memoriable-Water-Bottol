@@ -5,7 +5,7 @@ import Header from './component/Header/Header'
 
 function App() {
 
-
+ /* add all function */
 
 
   return (
